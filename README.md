@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Aymen Soussi
-- 👀 I’m interested in Software Engineering and Data Science
-- 🌱 I’m currently learning competitive programming
-- 💞️ I’m looking to collaborate on Data Science Researches and Web Application Projects
-- 📫 How to reach me, email: aymensoussi.02@gmail.com , Linkedin: https://www.linkedin.com/in/soussi-aymen/
+# Hi, I'm Aymen Soussi
 
-<!---
-Soussi-Aymen/Aymen-Soussi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Software Engineer in Berlin, building production AI systems: RAG pipelines, AI agents, and the cloud infrastructure around them.
+
+## What I work on
+- Retrieval-augmented generation and agentic systems (LangChain, LangGraph, pgvector)
+- Secure, scalable AI backends on AWS (Bedrock, Lambda, queues) with Terraform
+- Observability and evaluation of LLM applications
+- Python (FastAPI) and TypeScript (Node.js, Nest.js) backends for AI services
+- Full-stack delivery with React, Next.js, and Angular
+
+## What I care about
+Making design trade-offs explicit and shipping systems that hold up in production: security, cost, scale, and maintainability.
+
+## Open to
+Collaborating on AI engineering projects and hackathons, and on practical LLM applications.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/soussi-aymen/
+- Email: aymensoussi.02@gmail.com
